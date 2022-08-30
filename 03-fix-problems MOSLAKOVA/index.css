@@ -1,0 +1,46 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    text-align: left;
+    background: cornsilk;
+}
+
+body, .figure__image  {
+    margin: 0.0000001em;
+}
+
+.article {
+    padding: 24px;
+    max-width: 680px;
+}
+
+.article__lead {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: serif;
+} 
+
+.article__figure {
+    margin-left: 0;
+}
+
+.figure__image {
+    position: relative;
+    margin-bottom: 8px;
+}
+
+.figure__caption {
+    font-style: italic;
+    text-align: center;
+}
+
+.article__heading {
+    margin: 0 0 1.5rem 0;
+    color: palevioletred
+}
+
+
+
+/* Почему белые медведи не едят пингвинов? Потому что пингвины живут на южном полярном круге, а медведи - на северном */
